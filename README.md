@@ -12,4 +12,9 @@ Para aplicar estos conceptos se decide plantear como pregunta de investigación:
 Esta Notebook presenta todo el análisis realizado para dar respuesta a esta pegunta y las conclusiones obtenidas.
 
 ----------------------------------------
+TP-Final
+----------------------------------------
+Esta notebook es el trabajo final que presente en el curso de Python for Data Science dictado ppor EDX
+En el intenté volcar todo lo aprendido durante el curso. Nuevamente utilice un dataset de Kaggle: eCommerce Events History in Cosmetics Shop. Este contiene los eventos de compras online de cosmeticos. Si bien el data set consta de 5 meses (Oct 2019 – Feb 2020), por cuestiones de practicidad para este trabajo solo utilice los archivos de Diciembre 2019 y enero 2020.
+Esta Notebook presenta todo el análisis realizado para dar respuesta a las peguntas de investigación planteadas y las conclusiones obtenidas.
 
